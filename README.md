@@ -1,6 +1,6 @@
 # Online-Shop-by-Django4ByExample-Book
 I read django 4 by example book  &amp; applied the 3rd project which is a Online Shop. It's a rich book and an interesting project.
-#### In this chapter, you will learn how to:
+#### According to this bbo, I will learn how to:
 * Create a product catalog
 * Build a shopping cart using Django sessions
 * Create custom context processors
